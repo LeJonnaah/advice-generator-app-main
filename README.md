@@ -4,7 +4,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Table of contents
 
-- [Built with] (SASS - JS - HTML - BEM)
+- [Built with] (CSS - JS - HTML - BEM)
 - [Author] (Jonathan Andueza)
 
 ### The challenge
@@ -17,4 +17,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://electric-tiny-plum.glitch.me/)
